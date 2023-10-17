@@ -1,0 +1,31 @@
+div{height: 400px;
+    width: 400px;
+ 
+   background-image: url(https://iloveflores.com/wp-content/uploads/2018/05/Flor-de-Maracuj%C3%A1-2.jpg);
+  background-size: cover;
+  box-shadow: inset 20px 20px 50px  whitesmoke;
+  
+  padding: 100px; 
+   outline-width: 5px;
+  outline-style: dotted;
+  outline-color: DarkViolet; 
+  
+    border-width: 10px;
+    border-style: double;
+    border-color: Violet;  
+    border-radius: 20%;
+  
+   margin: 60px auto;
+   box-shadow:after;  
+}
+
+
+p{font-family:papyrus;
+  font-weight: bolder;
+  font-size: 60px;
+  padding: 100px 10px;
+  text-align:center;
+  color: crimson; 
+  text-shadow: white 0.1em 0.1em 0.2em;
+  -web
+}
